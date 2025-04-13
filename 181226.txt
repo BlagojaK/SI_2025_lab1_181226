@@ -1,0 +1,14 @@
+14-18
+git switch 1-remove-a-task-by-name
+git add .
+git commit -m "Add implementation for issue 1"
+git push
+Потоа на github креирам pull request
+*ова го правам за сите 3 гранки*
+
+22.
+git switch master
+git pull origin master
+git merge 6-find-the-highest-priority-unfinished-task
+git push origin master
+

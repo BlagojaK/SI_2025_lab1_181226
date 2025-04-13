@@ -1,0 +1,21 @@
+ *   404bf81 (HEAD -> master, origin/master, origin/HEAD) Merge branch '6-find-the-highest-priority-unfinished-task'
+|\
+| * 275f76a (origin/6-find-the-highest-priority-unfinished-task, 6-find-the-highest-priority-unfinished-task) Add implementation
+* |   3238ff7 Merge pull request #11 from BlagojaK/4-sort-tasks-by-priority
+|\ \
+| * | d87c52a (origin/4-sort-tasks-by-priority, 4-sort-tasks-by-priority) Add implementation
+| |/
+* |   c9424c8 Merge pull request #13 from BlagojaK/revert-10-1-remove-a-task-by-name
+|\ \
+| * | e3030d8 Revert "Add implementation for issue 1"
+|/ /
+* |   c5d0ab4 Merge pull request #10 from BlagojaK/1-remove-a-task-by-name
+|\ \
+| |/
+|/|
+| | * 96536db (origin/1-remove-a-task-by-name, 1-remove-a-task-by-name) Add implementation for issue 1
+| |/
+| * c03ebe6 Add implementation
+|/
+* 0f5def1 Add starter code
+* c4b249e Initial commit
