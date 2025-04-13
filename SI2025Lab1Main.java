@@ -121,7 +121,6 @@ public class SI2025Lab1Main {
 
         // MISSING: Calls to the new methods that will be implemented
 
-        manager.removeTask("Write report");
 
         manager.printTasks();
     }
