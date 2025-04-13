@@ -12,3 +12,7 @@ git pull origin master
 git merge 6-find-the-highest-priority-unfinished-task
 git push origin master
 
+26.
+git add.
+git commit -m "Add txt files"
+git push origin master
